@@ -1,0 +1,9 @@
+{
+  "api1": {
+    "name": "api1-state",
+    "url": "http://localhost:3000/hooks"
+  }, "api2": {
+    "name": "api2-state",
+    "url": "http://localhost:3001/hooks"
+  }
+}
